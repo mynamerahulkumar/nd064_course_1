@@ -1,6 +1,6 @@
 # nd064_C1
 Instructions
-### Cloud Native Fundamentals Scholarship Program Nanodegree Program
+### Cloud Native  Fundamentals Scholarship Program Nanodegree Program
 
 **Course Homepage**: https://sites.google.com/udacity.com/suse-cloud-native-foundations/home
 
